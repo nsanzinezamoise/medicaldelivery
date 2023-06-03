@@ -1,0 +1,136 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    
+    
+
+}
+body{
+    /* background-image: url('1.jpg' ); */
+    /* background-image: url('2.jpg' ); */
+     background-repeat: no-repeat; 
+background-size: cover;
+background-attachment: fixed;
+background-image: url('./f.png');
+    
+}
+ul{
+    margin-top: 40px;
+    margin-right: 20px;
+    margin-left: 120px;
+    margin-top: -55px;
+
+
+
+}
+ul li{
+    display: inline-block;
+    margin-left: 30px;
+    justify-content: center;
+    align-items: center;
+margin-left: 15px;
+
+}
+ul li a{
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    color: #97d6fa;
+    font-family: Arial;
+    font-size: 20px;
+
+}
+.home img{
+    width: 100px;
+    border-radius: 30px;
+    margin-top: 23px;
+    margin-left: 10px;
+
+}
+ button{
+    
+   
+    height: 50px;
+    border-radius: 20px;
+    box-shadow: 2px 3px 3px 1px  #97d6fa;
+    border-color: aqua;
+}
+ .logo{  
+    color: #97d6fa;
+margin-left: 20px;
+margin-top: -20px;
+}
+.mode{
+    width: 800px;
+    height: 500px;
+    background:#97d6fa ;
+    margin-left: 10px;
+    margin-top: 70px;
+    border-radius: 30px;
+    background-image: url('6.jpg');
+    box-shadow: 7px 7px 97px 7px #97d6fa ;
+}
+.wer{
+    color:blue ;
+    font-size: large;
+    margin-top: -610px;
+    margin-left: 120px;
+}
+ .form1{ 
+    width: 380px;
+    height: 480px;
+
+    margin-top: 70px;
+    margin-left: 420px;
+    
+}
+ .form2{ 
+    width: 380px;
+    height: 480px;;
+    background: transparent;
+    border-radius: 50px;
+    margin-top: 30px;
+    margin-left: -400px;
+}
+.image img{
+    margin-top: -500px;
+    margin-left: 820px;
+    width: 550px;
+    height: 500px;
+    border-radius: 20px;
+}
+.form2 img{
+    margin-top: -5px;
+    margin-left: 20px;
+    border: 50px;
+    border-radius: 7px 7px 7px 7px;
+    width: 380px;
+    height: 480px;
+}
+.ama{
+    width: 150px;
+height: 30px;
+
+}
+.butt button a{
+    text-decoration: none;
+    width: 200px;
+
+}
+.butt button {
+    height: 40px;
+    width: 150px;
+
+}
+.butt {
+    margin-left: 300px;
+    width: 200px;
+    margin-top: -20px;
+
+   
+}
+.ama a{
+    text-decoration: none;
+font-family: serif;
+font-size: large;
+}

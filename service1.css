@@ -1,0 +1,166 @@
+
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+background-image: url('./c.jpg');
+}
+
+ul{
+    margin-top: 40px;
+    margin-right: 20px;
+    margin-left: 120px;
+    margin-top: -55px;
+}
+ul li{
+    display: inline-block;
+    margin-left: 30px;
+    justify-content: center;
+    align-items: center;
+margin-left: 15px;
+}
+ul li a{
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    color: #97d6fa;
+    font-family: Arial;
+    font-size: 15px;
+    box-shadow: 10px;
+    
+
+}
+.home{
+    width: 1300px;
+}
+.home img{
+    width: 100px;
+    border-radius: 30px;
+    margin-top: 23px;
+    margin-left: 10px;
+
+}
+ button{
+    
+   
+    height: 50px;
+    border-radius: 20px;
+    box-shadow: 2px 3px 3px 1px  #97d6fa;
+    border-color: aqua;
+}
+ .logo{  
+    color: #97d6fa;
+margin-left: 20px;
+margin-top: -20px;
+}
+.work{ 
+    background: transparent;
+    margin-left: 100px;
+    width: 300px;
+    height:400PX;
+    border-radius: 10px;
+    box-shadow:  10px  10px  200px  10px  white;
+    margin-top: 250px;
+}
+h2 {
+    color: white;
+    font-family: Arial;
+margin-left: 40px;
+}
+.come{
+    height: 20px;
+    width: 60px;
+    color: #1897e0;
+    border: none;
+}
+p br{
+    color: white;
+    font-family: Arial;
+}
+.how{
+    color: aqua;
+}
+
+/* 
+table ,th, tr, td{
+    
+        border:2px solid black;
+        border-collapse: collapse;
+}*/
+.homer{
+    height: 400px;
+    width: 500px;
+    background: transparent;
+    border: none;
+    margin-top: -400px;
+    margin-left: 500px;
+    border-radius: 10px;
+}
+h1{
+    color: aliceblue;
+    font-family: Arial;
+    margin-left: 200px;
+}
+h4{
+    color: aliceblue;
+}
+.ama{
+display: flex;
+}
+/* .ama img{
+    border-radius: 10px;
+    box-shadow: 5px 5px 30px 5px white;
+    width: 400px;
+    margin-top: 20px;
+}
+
+.bbb{
+display: flex;
+}
+.bbb img{
+    border-radius: 10px;
+    box-shadow: 5px 5px 30px 5px white;
+    width: 400px;
+    height: 50px;
+    margin-top: 20px;
+
+} */
+.butt{
+    width: 100px;
+    height: 40px;
+    color: blue;
+   
+}
+.foto{
+    display: flex;
+    padding: 10px;
+    margin: 20px;
+   
+}
+.foto1{
+    display: flex;
+    padding: 10px;
+    margin: 20px;
+    margin-top: 100px;
+}
+.foto .nnn img{
+    width: 400px;
+    height: 300px;
+    border-radius: 10px;
+    box-shadow: 7px 7px 70px 7px #1897e0;
+}
+.foto1 .nnn img{
+    width: 400px;
+    height: 300px;
+    border-radius: 10px;
+    box-shadow: 7px 7px 70px 7px #1897e0;
+}
+.ifo{
+    width: 1200px;
+    height: 50%;
+    /*background-image: url("./g.jpg");*/
+    margin-top: -250px;
+
+
+}

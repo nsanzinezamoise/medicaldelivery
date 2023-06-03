@@ -1,0 +1,126 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+body{
+   
+     background-repeat: no-repeat; 
+background-size: cover;
+background-attachment: fixed;
+background-image: url('6.jpg');
+
+    
+}
+ul{
+    margin-top: 40px;
+    margin-right: 20px;
+    margin-left: 120px;
+    margin-top: -55px;
+
+
+
+}
+ul li{
+    display: inline-block;
+    margin-left: 30px;
+    justify-content: center;
+    align-items: center;
+margin-left: 15px;
+
+}
+ul li a{
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    color: #97d6fa;
+    font-family: Arial;
+    font-size: 20px;
+    box-shadow: 10px;
+    
+
+}
+.home img{
+    width: 100px;
+    border-radius: 30px;
+    margin-top: 23px;
+    margin-left: 10px;
+
+}
+ button{
+    
+   
+    height: 50px;
+    border-radius: 20px;
+    box-shadow: 2px 3px 3px 1px  #97d6fa;
+    border-color: aqua;
+}
+ .logo{  
+    color: #97d6fa;
+margin-left: 20px;
+margin-top: -20px;
+}
+.form{ 
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    width: 350px;
+    height: 400px;
+ background:transparent ; 
+    margin-top: 100px;
+    margin-left: 200px;
+    border-radius: 30px;
+    /* box-shadow: 7px 9px 100px 3px #5fafde; */
+    box-shadow: 7px 9px 100px 30px #3c8ed5f1;
+   
+
+
+}
+.form input{
+    margin-top: 20px;
+    border-radius: 20px;
+    border-style: none;
+    text-align: center;
+   background: transparent;
+   height: 26px;
+   margin-left: 50px;
+   width: 250px;
+   box-shadow: 7px 3px 3px 0px #0686f6f1;
+  font-family:  Georgia, Times, 'Times New Roman', serif;
+  border-color: transparent;
+  color:#0851e2 ;
+  font: weight 150px;
+  font-weight: bold;
+font-size: large;
+}
+
+.GG{
+    background: transparent;
+    text-decoration-color: #97d6fa;
+    color: #0851e2;
+   
+font-weight: bolder;
+font-size: larger;
+margin-top: 30px;
+margin-left: 100px;
+width: 100PX;
+height: 50px;
+}
+ h1{
+    color: #0851e2;
+    font: weight 150px;
+    margin-left: 70px;
+    margin-top: 40px;
+}
+.con img{
+    width:50px ;
+    height: 30px;
+    background: green;
+    margin-top: 20px;
+}
+h3{
+    font-family:Arial;
+    color: #0851e2;
+    margin-left: 20px;
+    margin-top: 10px;
+}
